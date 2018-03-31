@@ -1,7 +1,3 @@
-// solve("x-(y+z)") = "x-y-z"
-// solve("x-(y-z)") = "x-y+z"
-// solve("u-(v-w-(x+y))-z") = "u-v+w+x+y-z"
-// solve("x-(-y-z)") = "x+y+z"
 
 function solve(s) {
 
